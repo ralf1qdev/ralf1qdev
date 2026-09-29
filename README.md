@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">ralf1q.dev</h1>
 
-<!--
-**ralf1qdev/ralf1qdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Scripter · Developer · Tool Builder
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Lua-161b22?style=for-the-badge&logo=lua&logoColor=818CF8" alt="Lua" />
+  <img src="https://img.shields.io/badge/JSON-161b22?style=for-the-badge&logo=json&logoColor=FFFFFF" alt="JSON" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+
+I write scripts, develop tools, and automate repetitive tasks.
+I care about readable code, simple solutions, and building things that work.
+
+### Focus
+
+- Scripting and automation
+- Tool development
+- Personal projects and experiments
+
+---
+
+<p align="center">
+  <code>build → test → improve</code>
+</p>
