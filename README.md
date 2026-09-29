@@ -25,6 +25,13 @@ I care about readable code, simple solutions, and building things that work.
 
 ---
 
+### Projects
+
+Explore my [repositories](https://github.com/ralf1qdev?tab=repositories)
+for scripts, tools, and ongoing work.
+
+---
+
 <p align="center">
   <code>build → test → improve</code>
 </p>
