@@ -7,7 +7,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/Lua-161b22?style=for-the-badge&logo=lua&logoColor=818CF8" alt="Lua" />
-  <img src="https://img.shields.io/badge/JSON-161b22?style=for-the-badge&logo=json&logoColor=FFFFFF" alt="JSON" />
+  <img src="https://img.shields.io/badge/Luau-161b22?style=for-the-badge&logo=luau&logoColor=00A2FF" alt="Luau" />
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-161b22?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
 </p>
 
 ---
