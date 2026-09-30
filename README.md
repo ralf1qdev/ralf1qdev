@@ -30,7 +30,7 @@ I care about readable code, simple solutions, and building things that work.
 
 ### Projects
 
-Explore my [repositories](https://github.com/ralf1qdev?tab=repositories)
+Explore my [repositories]https://github.com/ralf1qdev?tab=repositories)
 for scripts, tools, and ongoing work.
 
 ---
