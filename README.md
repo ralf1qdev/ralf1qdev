@@ -19,13 +19,15 @@
 
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-111827?style=flat-square&logo=robloxstudio&logoColor=white) ![Luau](https://img.shields.io/badge/Luau-2563EB?style=flat-square)
 
-**Programming & Bots**
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Luau](https://img.shields.io/badge/Luau-2563EB?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![CSS](https://img.shields.io/badge/CSS-20232A?style=flat-square&logo=css&logoColor=1572B6)
+
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26) ![Luau](https://img.shields.io/badge/Luau-2563EB?style=flat-square) ![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB)
 
 **Web & APIs**
 
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css&logoColor=1572B6) ![APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
+![Frontend](https://img.shields.io/badge/Frontend-1F2937?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-1F2937?style=flat-square) ![APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
 
 **Tools**
 
