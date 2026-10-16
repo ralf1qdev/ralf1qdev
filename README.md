@@ -1,61 +1,51 @@
-<div align="center">
+# Salut! I'm ralf1q. 👋
 
-# Hey, I'm YOUR_NAME! 👋
-### Roblox Developer • Discord Bot Creator • Full-Stack Developer
+<table>
+<tr>
+<td width="55%" valign="top">
 
-I build Roblox experiences, automate Discord communities, create websites, and connect services with APIs.
+### 📖 About Me
 
-</div>
+- 🎮 Roblox game developer & Luau scripter
+- 🤖 Discord bot developer
+- 🌐 Full-stack website developer
+- 🔌 API development & integrations
+- 🛠️ Building tools, automations, and interactive experiences
+
+### 🛠️ Tech Stack
+
+**Game Development**
+
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-111827?style=flat-square&logo=robloxstudio&logoColor=white) ![Luau](https://img.shields.io/badge/Luau-2563EB?style=flat-square)
+
+**Web & Bots**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css&logoColor=1572B6) ![APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+</td>
+<td width="45%" align="center" valign="top">
+
+### 💬 Discord Presence
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/943558564423815189?theme=dark&bg=161B22&borderRadius=10px&idleMessage=Probably%20coding%20something...)](https://discord.com/users/943558564423815189)
+
+</td>
+</tr>
+</table>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=ralf1q&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralf1q&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎮 **Roblox game scripting:** gameplay systems, UI, datastores, and integrations
-- 🤖 **Discord bots:** commands, moderation, automation, and custom features
-- 🌐 **Web development:** responsive frontends and backend services
-- 🔌 **APIs:** REST integrations, authentication, and data handling
-- 🚀 Always experimenting with new technologies and building useful projects
-
-## 🛠️ Tech Stack
-
-**Languages & scripting**
-
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Web & backend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-444444?style=flat-square)
-
-**Tools & platforms**
-
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-111111?style=flat-square&logo=robloxstudio&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-> Note: Language stats reflect public GitHub repository contents, not necessarily all the technologies you work with.
-
-## 📬 Contact
-
-- 🌍 Website: https://YOUR_WEBSITE
-- 💬 Discord: `YOUR_DISCORD_USERNAME`
-- ✉️ Email: [support@ralf1q.lol](mailto:support@ralf1q.lol) *(only display this once your mailbox is active)*
-
-<!-- Optional: Add a Discord presence card with your Discord user ID after setting up Lanyard. -->
+<p align="center">
+  <a href="https://discord.com/users/943558564423815189">Discord</a> • <a href="https://github.com/ralf1q">GitHub</a>
+</p>
