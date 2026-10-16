@@ -7,6 +7,7 @@
 ### 📖 About Me
 
 - 🎮 Roblox game developer & Luau scripter
+- 🐍 Python developer — scripts, automations & bots
 - 🤖 Discord bot developer
 - 🌐 Full-stack website developer
 - 🔌 API development & integrations
@@ -18,9 +19,13 @@
 
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-111827?style=flat-square&logo=robloxstudio&logoColor=white) ![Luau](https://img.shields.io/badge/Luau-2563EB?style=flat-square)
 
-**Web & Bots**
+**Programming & Bots**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css&logoColor=1572B6) ![APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
+![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Luau](https://img.shields.io/badge/Luau-2563EB?style=flat-square)
+
+**Web & APIs**
+
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css&logoColor=1572B6) ![APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
 
 **Tools**
 
@@ -40,12 +45,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=ralf1q&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralf1q&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=ralf1qdev&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralf1qdev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://discord.com/users/943558564423815189">Discord</a> • <a href="https://github.com/ralf1q">GitHub</a>
+  <a href="https://discord.com/users/943558564423815189">Discord</a> • <a href="https://github.com/ralf1qdev">GitHub</a>
 </p>
