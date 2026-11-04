@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">ralf1q.</title>
+  <desc id="desc">Roblox, web development, and automation. An animated terminal cycles through Roblox games, Discord bots, and web projects.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10151e"/><stop offset="1" stop-color="#172339"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="298" rx="16" fill="url(#bg)" stroke="#2a3649"/>
+  <g fill="#516078"><circle cx="30" cy="26" r="4"/><circle cx="46" cy="26" r="4"/><circle cx="62" cy="26" r="4"/></g>
+  <text x="88" y="31" fill="#7b8ba3" font-family="Consolas,monospace" font-size="13">ralf1q / developer</text>
+  <path d="M1 50H1199" stroke="#2a3649"/>
+  <text x="50" y="122" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" fill="#edf3ff">ralf1q<tspan fill="#8bbdff">.</tspan></text>
+  <text x="52" y="161" fill="#9baac1" font-family="Segoe UI,Arial,sans-serif" font-size="19">Roblox development · Web applications · Automation</text>
+  <text x="52" y="229" fill="#8bbdff" font-family="Consolas,monospace" font-size="19">&gt;</text>
+  <g fill="#d3dff2" font-family="Consolas,monospace" font-size="19">
+    <text x="78" y="229" opacity="1">building roblox games<animate attributeName="opacity" values="1;0;0" keyTimes="0;0.333;0.666" dur="9s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="78" y="229" opacity="0">writing discord bots<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.333;0.666" dur="9s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="78" y="229" opacity="0">working on websites<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.333;0.666" dur="9s" calcMode="discrete" repeatCount="indefinite"/></text>
+  </g>
+  <rect x="328" y="212" width="9" height="21" rx="1" fill="#8bbdff"><animate attributeName="opacity" values="1;0" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/></rect>
+  <g fill="none" stroke="#8bbdff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.5">
+    <path d="M1000 110L960 150L1000 190M1080 110L1120 150L1080 190M1054 99L1026 201"/>
+  </g>
+  <text x="52" y="274" fill="#65758d" font-family="Consolas,monospace" font-size="12">LUAU / PYTHON / TYPESCRIPT</text>
+</svg>
+
