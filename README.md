@@ -1,29 +1,29 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="hey, I'm ralf1q. 17 • making things with code." width="100%" />
+  <img src="./assets/header.svg" alt="ralf1q — Roblox, web development, and automation." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ralf1qdev?tab=repositories">my projects</a>
+  <a href="https://github.com/ralf1qdev?tab=repositories">Projects</a>
   &nbsp; / &nbsp;
-  <a href="#stuff-i-use">tech stack</a>
+  <a href="#tech-stack">Tech stack</a>
   &nbsp; / &nbsp;
-  <a href="#say-hey">contact</a>
+  <a href="#contact">Contact</a>
 </p>
 
 <br />
 
-### hey, i'm ralf1q 👋
+### About me
 
-I'm 17 and I make games, websites, Discord bots, and whatever else I feel like trying.
+I'm ralf1q. I develop Roblox experiences, Discord bots, and web applications.
 
-Most of my work is in **Roblox Studio**, but I also write **Python** scripts and build things for the web. I like making stuff I can actually use, especially when it saves me doing something manually.
+Most of my work involves **Luau**, **Python**, and **TypeScript**. I build gameplay systems, community tools, and API integrations, with an interest in automation and making complex workflows easier to use.
 
-- 🎮 Roblox games & Luau scripting
-- 🤖 Discord bots & community tools
-- 🌐 Websites, backends & API integrations
-- 🛠️ Little scripts that make life easier
+- Roblox development & Luau scripting
+- Discord bots & community tools
+- Websites, backends & API integrations
+- Python scripting & workflow automation
 
-### stuff i use
+### Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Roblox_Studio-161B22?style=flat-square&logo=robloxstudio&logoColor=8BBDFF" alt="Roblox Studio" />
@@ -36,23 +36,24 @@ Most of my work is in **Roblox Studio**, but I also write **Python** scripts and
 </p>
 
 <details>
-  <summary>a few more things</summary>
+  <summary>Tools & integrations</summary>
   <br />
-  Git, GitHub, VS Code, REST APIs, and probably too many open tabs.
+  Git · GitHub · VS Code · REST APIs
 </details>
 
-### what i'm working on
+### Projects
 
-Usually something involving Roblox, Discord, or a website. My public work is in my **[repositories](https://github.com/ralf1qdev?tab=repositories)** — have a look around.
+You can find my public projects and source code in my **[repositories](https://github.com/ralf1qdev?tab=repositories)**.
 
-### say hey
+### Contact
 
 **Discord:** `ralf1q`
 
-Feel free to message me about a project, ask a question, or just say hi.
+For project enquiries or development questions, reach out on Discord.
 
 <br />
 
 <p align="center">
-  <sub>probably fixing something i broke five minutes ago.</sub>
+  <sub>Roblox · Web · Automation</sub>
 </p>
+
