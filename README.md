@@ -1,5 +1,5 @@
 
-## Salut! I'm Ralf1q. 👋
+## Hey! I'm Ralf1q. 👋
 
 ### 📖 About Me
 - Full Stack Python Developer
